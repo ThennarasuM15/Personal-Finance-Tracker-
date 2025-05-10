@@ -1,17 +1,17 @@
-# Personal-Finance-Tracker-
+# Personal-Finance-Tracker
 ---
 
-📊 Overview:
+**📊 Overview:**
 This interactive dashboard helps track and visualize personal income, spending habits, top expenses, and trends over time. Inspired by the elegance of premium financial tools, it offers both functional depth and visual appeal using only Excel's native features.
 
 ---
 
-🖼️ Dashboard Theme:
+**🖼️ Dashboard Theme:**
 Designed using a black & gold aesthetic inspired by the American Express Centurion Card (a.k.a. “The Black Card”).
 Custom icons, dark-mode styling, and modern UI elements reflect a premium experience while retaining full Excel compatibility.
 
 ---
-📊 Key Features:
+**📊 Key Features:**
 1. Balance & Card Overview
 Current available balance displayed on a custom-styled American Express card
 
@@ -54,14 +54,16 @@ Side panel icons for navigation (e.g., Dashboard, Filter, User, LinkedIn)
 
 ---
 
-📌 Tools Used:
+**📌 Tools Used:**
+
 Microsoft Excel (with Form Controls, Slicers, Charts, and Conditional Formatting)
 
 Custom color gradients and shape layering for modern visuals
 
 ---
 
-🧠 Insights Gained:
+**🧠 Insights Gained:**
+
 Clear visibility into top expense categories
 
 Tracking overspending trends by week/month
@@ -70,7 +72,8 @@ Understanding how diversified and stable income sources are
 
 ---
 
-🪄 Tips for Use:
+**🪄 Tips for Use:**
+
 Use filter panel (right side) to explore month-wise trends
 
 Use arrow buttons or "Spreadsheet" tab for quick navigation
@@ -80,9 +83,10 @@ Click the Refresh button to undo all filter changes and reset view
 Update your data in the Data tab to auto-refresh visuals
 
 ---
-#Source Ref:  
-Evergreen Digital Tech Solution Youtube vlog
----
 
-🔗 Connect with Me:
+**Source Ref:**
+Evergreen Digital Tech Solution Youtube vlog
+
+---
+**🔗 Connect with Me:**
 If you liked this project or want to collaborate, connect with me on LinkedIn (https://www.linkedin.com/in/thennarasu-m-da/).
